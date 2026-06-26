@@ -1,0 +1,47 @@
+Id CommandLine                                                                                                                       
+  -- -----------                                                                                                                       
+   1 try { . "c:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\7e7950df89\resources\app\out\vs\workbench\contrib\terminal\comm...
+   2 node app.js                                                                                                                       
+   3 ls -l                                                                                                                             
+   4 rm app.js                                                                                                                         
+   5 ls                                                                                                                                
+   6 ls -l                                                                                                                             
+   7 clear                                                                                                                             
+   8 ls                                                                                                                                
+   9 git init --initial-branch=main                                                                                                    
+  10 git status                                                                                                                        
+  11 ls -a                                                                                                                             
+  12 clear                                                                                                                             
+  13 Get-ChildItem -Force                                                                                                              
+  14 dir -Force                                                                                                                        
+  15 git status                                                                                                                        
+  16 node app.js                                                                                                                       
+  17 dir                                                                                                                               
+  18 dir -Force                                                                                                                        
+  19 git status                                                                                                                        
+  20 git add .                                                                                                                         
+  21 dir -Force                                                                                                                        
+  22 git status                                                                                                                        
+  23 git commit -m "app.js is tracking"                                                                                                
+  24 git status                                                                                                                        
+  25 clear                                                                                                                             
+  26 git log                                                                                                                           
+  27 git log --one-line                                                                                                                
+  28 rm  app.js                                                                                                                        
+  29 rm   restore app.js                                                                                                               
+  30 clear                                                                                                                             
+  31 git restore app.js                                                                                                                
+  32 git status                                                                                                                        
+  33 git log                                                                                                                           
+  34 git rm app.js                                                                                                                     
+  35 git restore app.js                                                                                                                
+  36 git log                                                                                                                           
+  37 git statsu                                                                                                                        
+  38 git status                                                                                                                        
+  39 git restore --staged .                                                                                                            
+  40 git statsu                                                                                                                        
+  41 git status                                                                                                                        
+  42 git commit -a                                                                                                                     
+  43 git commit -a -m "deleated app.js is tracking"                                                                                    
+  44 git log                                                                                                                           
+

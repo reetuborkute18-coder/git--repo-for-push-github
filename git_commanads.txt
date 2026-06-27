@@ -45,3 +45,27 @@ Id CommandLine
   43 git commit -a -m "deleated app.js is tracking"                                                                                    
   44 git log                                                                                                                           
 
+Id CommandLine                                                                                                                      
+  -- -----------                                                                                                                      
+   1 try { . "c:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\7e7950df89\resources\app\out\vs\workbench\contrib\terminal\com...
+   2 git status                                                                                                                       
+   3 git log                                                                                                                          
+   4 git remote add origin https://github.com/reetuborkute18-coder/GI-FOR-DEVOPS-WORKSHOP.git                                         
+   5 git remote -v                                                                                                                    
+   6 git push -u origin main                                                                                                          
+   7 git branch -M main                                                                                                               
+   8 git push -u origin main                                                                                                          
+   9 git remote add origin https://github.com/reetuborkute18-coder/GI-FOR-DEVOPS-WORKSHOP.git                                         
+  10 git remote add origin https://github.com/reetuborkute18-coder/git--repo-for-push-github.git                                      
+  11 git branch -M main                                                                                                               
+  12 git push -u origin main                                                                                                          
+  13 git remote -v                                                                                                                    
+  14 history                                                                                                                          
+  15 clear                                                                                                                            
+  16 git remote -v                                                                                                                    
+  17 git remote set-url originhttps://github.com/reetuborkute18-coder/git--repo-for-push-github.git                                   
+  18 git remote set-url origin https://github.com/reetuborkute18-coder/git--repo-for-push-github.git                                  
+  19 git remote -v                                                                                                                    
+  20 git push -u origin main                                                                                                          
+  21 git branch                                                                                                                       
+  22 clear                                                                                                                            
